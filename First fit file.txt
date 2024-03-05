@@ -1,0 +1,2 @@
+This is my first git hub repositary
+i want to uploade the spi_flash code.
